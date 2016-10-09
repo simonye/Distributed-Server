@@ -1,0 +1,32 @@
+#
+# University of Waterloo
+# CS454 Winter 2016
+#
+# Assignment 3
+#
+# Tian Lan
+# t2lan@uwaterloo.ca
+#
+# Suyang Ye
+# s32ye@uwaterloo.ca
+# 
+
+# Compiled with g++/gcc 4.6.4 and GNU Make 3.81
+# Tested on ubuntu1204-002, ubuntu1204-004, ubuntu1204-006
+
+# make to compile librpc.a and binder
+
+# ./binder to run binder
+
+# library dependencies:
+# rpc.h
+# rpc_binder.cc
+# rpc_server.cc
+# rpc_client.cc
+# rpc_argtypes.cc	rpc_argtypes.h
+# rpc_debug.cc		rpc_debug.h
+# rpc_entry.cc		rpc_entry.h
+# rpc_message.cc	rpc_message.h
+# rpc_receiver.cc	rpc_receiver.h
+# rpc_sender.cc		rpc_sender.h
+# rpc_setup.cc		rpc_setup.h
